@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Entity(repositoryClass="\Application\Repository\PostRepository")
  * @ORM\Table(name="lance_tipo")
  */
-class Arbitro
+class LanceTipo
 {
     /**
      * @ORM\Id
